@@ -11,10 +11,10 @@
 This app makes it easy and instantly to display the current status of System Integrity Protection (SIP) and Signed System Volume (SSV) on your system with a simple interface.
 
 
-<p align="center">GUI on macOS 10.14.6<br><img width="400" alt="Main GUI macOS 10.14.6" src="https://github.com/alphascorp/SIP-SSV-status/blob/main/Screenshots/Main%20GUI%20macOS%2010.14.6.png"></p>
+<p align="center">GUI on macOS 10.14.6<br><img width="400" alt="GUI on macOS 10.14.6" src="https://github.com/alphascorp/SIP-SSV-status/blob/main/Screenshots/Main%20GUI%20macOS%2010.14.6.png"></p>
 
 
-<p align="center">GUI on macOS 11 +<br><img width="400" alt="Main GUI macOS 11 +" src="https://github.com/alphascorp/SIP-SSV-status/blob/main/Screenshots/Main%20GUI%20macOS%2011%20%2B.png"></p>
+<p align="center">GUI on macOS 11+<br><img width="400" alt="GUI on macOS 11+" src="https://github.com/alphascorp/SIP-SSV-status/blob/main/Screenshots/Main%20GUI%20macOS%2011%20%2B.png"></p>
 
 The following Terminal commands are no longer necessary for this.
 
