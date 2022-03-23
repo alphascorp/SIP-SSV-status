@@ -8,7 +8,7 @@
 
 ### Easy to use
 
-This app makes it easy to display the current status of System Integrity Protection (SIP) and Signed System Volume (SSV) on your system with a simple interface.
+This app makes it easy and instantly to display the current status of System Integrity Protection (SIP) and Signed System Volume (SSV) on your system with a simple interface.
 
 
 <p align="center">GUI on macOS 10.14.6<br><img width="400" alt="Main GUI macOS 10.14.6" src="https://github.com/alphascorp/SIP-SSV-status/blob/main/Screenshots/Main%20GUI%20macOS%2010.14.6.png"></p>
