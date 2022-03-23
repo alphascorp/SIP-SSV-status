@@ -1,4 +1,4 @@
-# SIP & SSV status ([Download](https://github.com/alphascorp/SIP-SSV-status/blob/main/Screenshots/Main%20GUI%20macOS%2011%20%2B.png))
+# SIP & SSV status ([Download](https://github.com/alphascorp/SIP-SSV-status/files/8335367/SIP.SSV.status.1.5.dmg.zip))
 
 ---
 
