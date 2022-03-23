@@ -20,7 +20,7 @@ The following Terminal commands are no longer necessary for this.
 
 
 ### Terminal commands given as a reminder
-
+:point_down:
 <details> <summary> View Spoiler: (Terminal commands)  </summary>
 
   - For displaying System Integrity Protection (SIP):
