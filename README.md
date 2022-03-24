@@ -55,3 +55,5 @@ xattr -rd com.apple.quarantine
 4. Drag and drop "OpenCoreVersion.app" next to it, from the Finder
 
 Now the program will run normally.
+
+#### :white_check_mark: Scanned with ClamXav and guaranteed virus and malware free. :white_check_mark:
